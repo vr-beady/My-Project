@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Wave/Essence/ScenePerception/5.3.2-r.4/Demo/Scenes/ScenePerceptionDemo(PlaneAnchor).unity
+    guid: 2a9be5c2e2ac6b6448bf9e55497dac9b
+  - enabled: 0
+    path: Assets/Wave/Essence/ScenePerception/5.3.2-r.4/Demo/Scenes/ScenePerceptionDemo(SceneMeshAnchor).unity
+    guid: eed64361c898e114f905a896aabb91ea
+  m_configObjects:
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: 72c7477bb530af643925974f8ca8aec2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fa05a8fe63b78f945a775cfbbe538f32, type: 2}
